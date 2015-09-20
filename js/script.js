@@ -1,12 +1,13 @@
 $(document).ready( function() {
 	
 	// themes
-	var $theme1 = 'blue', $theme2 = 'teal';
+	var $theme1 = 'blue',
+		$theme2 = 'teal';
 	
 	// handlers
-	var $card = $('#card');
-	var $mainmenu = $card.find('.mainmenu');
-	var $submenu = $card.find('.submenu');
+	var $card = $('#card'),
+		$mainmenu = $card.find('.mainmenu'),
+		$submenu = $card.find('.submenu');
 	
 	// initial setup
 	$mainmenu.children('li').addClass($theme1).addClass('blue-border');
