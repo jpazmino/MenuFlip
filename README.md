@@ -7,6 +7,6 @@
 
 - See base functionality in MenuToggle repo.
 
-- Look/color/design adapted from PSD seen at http://www.psdchat.com
+- Look/color/design adapted from PSD seen at http://www.psdchat.com/uncategorized/freebie-flat-accordion/
 
 ![Screenshot](https://github.com/jpazmino/MenuFlip/blob/master/screenshot.jpg)
